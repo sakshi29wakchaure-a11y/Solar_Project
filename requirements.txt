@@ -2,3 +2,4 @@ streamlit
 pytesseract
 Pillow
 pdfplumber
+openpyxl
