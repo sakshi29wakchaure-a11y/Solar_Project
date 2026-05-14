@@ -7,7 +7,7 @@ from openpyxl import load_workbook
 import tempfile
 
 # 🔴 SET TESSERACT PATH (change if needed)
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+# pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 # -----------------------------
 # TEXT EXTRACTION
